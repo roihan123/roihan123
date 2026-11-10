@@ -1,16 +1,20 @@
-## Hi there 👋
+### i'm roihan123, call me roi for short..
+an AI Engineer (AI Agent testing/QA, Machine learning, Computer Vision), Full-Stack Dev (Front-End Main), Game Dev, and sometimes i draw.
 
-<!--
-**roihan123/roihan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I speak English fluently and Indonesia is my first language.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### links?
+* [roihan123.xyz](https://roihan123.xyz)
+* [instagram](https://www.instagram.com/roihan123_)
+* [email me!]([mailto:kiagusroihan0@gmail.com](https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=kiagusroihan0@gmail.com))
+* [linkedin](https://www.linkedin.com/in/roihan123/)
+
+---
+
+### skills
+
+* **Languages:** Python, TypeScript, JavaScript, C++, Lua, AutoHotkey(AHK), HTML, CSS
+* **Web Stack:** Next.js, React, Tailwind CSS, TanStack Query, Prisma, Supabase, PostgreSQL, Node.js, Electron
+* **AI:** OpenCV, YOLO, InsightFace (ArcFace), PyTorch, LightGBM, XGBoost
