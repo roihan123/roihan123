@@ -8,7 +8,7 @@ I speak English fluently and Indonesia is my first language.
 ### links?
 * [roihan123.xyz](https://roihan123.xyz)
 * [instagram](https://www.instagram.com/roihan123_)
-* [email me!]([mailto:kiagusroihan0@gmail.com](https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=kiagusroihan0@gmail.com))
+* [email me!](https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=kiagusroihan0@gmail.com))
 * [linkedin](https://www.linkedin.com/in/roihan123/)
 
 ---
