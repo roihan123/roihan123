@@ -4,6 +4,7 @@ an AI Engineer (AI Agent testing/QA, Machine learning, Computer Vision), Full-St
 I speak English fluently and Indonesia is my first language.
 
 learning Rust rn..
+
 ---
 
 ### links?
